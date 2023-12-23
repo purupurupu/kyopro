@@ -33,7 +33,6 @@ str_list = [input() for _ in range(n)]
 n = int(input())  # nは入力回数
 num_list = [int(input()) for _ in range(n)]
 
-
 # 【n行】n文字
 # 3
 # aaa b cc
